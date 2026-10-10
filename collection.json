@@ -148,7 +148,13 @@
     "id": "llm-versus-calc",
     "url": "https://llmversus.vercel.app/tools/api-cost-calculator/",
     "tags": ["calculator", "pricing", "comparison"]
-  }
+  }    "tags": ["comparison", "pricing", "benchmarks", "calculator"]
+  },
+  {
+    "id": "llm-versus-calc",
+    "url": "https://llmversus.vercel.app/tools/api-cost-calculator/",
+    "tags": ["calculator", "pricing", "comparison"]
+  },
   },
   {
     "id": "vellum",
