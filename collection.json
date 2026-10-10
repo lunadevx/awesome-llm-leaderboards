@@ -143,7 +143,12 @@
     "id": "vakati",
     "name": "Vakati",
     "url": "https://www.vakati-tech.ai/compare",
-    "tags": ["comparison", "pricing", "benchmarks", "calculator"]
+    "tags": ["comparison", "pricing", "benchmarks", "calculator"],
+  {
+    "id": "llm-versus-calc",
+    "url": "https://llmversus.vercel.app/tools/api-cost-calculator/",
+    "tags": ["calculator", "pricing", "comparison"]
+  }
   },
   {
     "id": "vellum",
